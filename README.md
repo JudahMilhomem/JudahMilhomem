@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahMilhomem&count_private=true&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Top Languages Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudahMilhomem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Icons! -->
+### Languages:
+<div style="display: flex;" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" />
+### Tools:
