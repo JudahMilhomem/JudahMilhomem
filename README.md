@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Top Languages Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudahMilhomem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Icons! -->
-### Languages:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <!-- GitHub Stats Card -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahMilhomem&count_private=true&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudahMilhomem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
