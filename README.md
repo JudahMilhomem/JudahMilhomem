@@ -17,6 +17,7 @@
 ### Fun Fact
 - 🤓 To all you **Vergil** lovers, **Dante is way cooler**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahmilhomem)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahmilhomem&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## 
 **ps.:** I'm kind of remaking this profile, so hopefully there will be a lot of cool projects here soon ;)
