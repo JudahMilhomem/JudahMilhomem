@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.discordapp.com/attachments/1146587830408188027/1202701734884155423/mario-8bit-coding-banner.gif?ex=65ce6a46&is=65bbf546&hm=ee63ab1b030c513919fd7446ab9258d8b585986741b8697d2a671cb266d52ec9&)
 <h1 align="center">Hi!! My name is Judah 👋😬</h1>
 <h3 align="center">I'm a Computer Science student (🎓5/8) at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">UFFS, Chapecó</a> - Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1146587830408188027/1202696383015166022/kira-meme-giphy.webp?ex=65ce654a&is=65bbf04a&hm=b2df6211e0c1589220a4cfa9025654b2ef4621f41787b7385336cc1602a717a3&">
