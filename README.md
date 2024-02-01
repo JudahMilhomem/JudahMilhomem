@@ -1,5 +1,6 @@
-# Hi!! My name is Judah 😬
-## I'm a Computer Science student (🎓5/8) at [UFFS, Chapecó](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Brazil.
+
+<h1 align="center">Hi!! My name is Judah 👋😬</h1>
+<h3 align="center">I'm a Computer Science student (🎓5/8) at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">UFFS, Chapecó</a> - Brazil</h3>
 
 ### About Me
 - 🌱 I am currently learning **Web Development** and **DevOps**. Aaand... just about everything else, Haha!
@@ -15,6 +16,6 @@
 ### Fun Fact
 - 🤓 To all you **Vergil** lovers, **Dante is way cooler**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahmilhomem)](https://github.com/anuraghazra/github-readme-stats)
 ## 
 **ps.:** I'm kind of remaking this profile, so hopefully there will be a lot of cool projects here soon ;)
