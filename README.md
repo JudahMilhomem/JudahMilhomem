@@ -6,12 +6,14 @@
 ### About Me
 - 🌱 I am currently learning **Web Development** and **DevOps**. Aaand... just about everything else, Haha!
 - 🤝 I am looking foward to collaborating on **anything that could help me grow** as a professional;
-- 🧠 I might have a **hard time learning** some things, but I'm very curious and love learning new skills;
-- 🎮❤️ **Game Dev** seems so difficult 😭 (but I would love to try it!);
+- 🧠 I am very curious and I love learning new skills;
+- 🎮❤️ I would love to try **Game Dev** someday (Seems so difficult! 😭);
 
 ### Experience
 - 👨‍💻 I am looking for **my first job experience**;
-- 💻 Most of my knowledge is on **Web Dev**, but I'm hoping to explore **new things** soon;
+- 💻 Most of my knowledge is on **Web Dev**, but I'm hoping to explore/learn **new things**, specially around building Software;
+- 🔐 Cyber Security interests me a lot;
+- 🎨 I'm currently taking my chances on becoming a Graphic Designer (you can check my [Dribbble](https://dribbble.com/judahmilhomem));
 <!-- colocar links do meu Portfólio e de outros projetos aqui futuramente -->
   
 ### Fun Fact
