@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://cdn.discordapp.com/attachments/1146587830408188027/1202701734884155423/mario-8bit-coding-banner.gif?ex=65ce6a46&is=65bbf546&hm=ee63ab1b030c513919fd7446ab9258d8b585986741b8697d2a671cb266d52ec9&) -->
 <h1 align="center">Hi!! My name is Judah 👋😬</h1>
-<h3 align="center">I'm a Computer Science student (🎓6/8) at <a href="https://www.uffs.edu.br">UFFS, Chapecó</a> - Brazil</h3>
+<h3 align="center">I'm a Computer Science student (🎓7/8) at <a href="https://www.uffs.edu.br">UFFS, Chapecó</a> - Brazil</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1146587830408188027/1202696383015166022/kira-meme-giphy.webp?ex=65ce654a&is=65bbf04a&hm=b2df6211e0c1589220a4cfa9025654b2ef4621f41787b7385336cc1602a717a3&"> -->
 
 ## About Me
@@ -16,8 +16,8 @@
 > ❤️🎵 I'm also a big fan of [Music](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
 
 ## Experience
-<_No job experience_> </br>
-I am a former member of [**Fronteira Tec**](https://www.instagram.com/fronteira_tec/), a Jr. Company at my University.
+- Intern at [Agiitec](https://www.instagram.com/agiitec.uffs/) (UFFS); 🛠️
+- I am a former member of [**Fronteira Tec**](https://www.instagram.com/fronteira_tec/), a Jr. Company at my University.
 # Development-side
 - 👨‍💻 Looking for my **first job experience** in the area!! </br>
 <p style="text-indent: 30px; text-align: justify;">
@@ -59,17 +59,15 @@ AWS -->
 
 # Design-side
 <p style="text-indent: 30px; text-align: justify;">
-I have some experience with Design, and I'm actively studying it! It's an area that always interested me and that I think I have an inclination to. That being said, I've been dedicating some of my efforts to get better at it, a part to Web Design and a part to Design in gereral.
+I have some experience with Design, and I'm actively studying it! It's an area that always interested me and that I think I have an inclination to. That being said, I've been dedicating some of my efforts to get better at it :)
 </p>
-<p style="text-indent: 30px; text-align: justify;">As an extra, I've been using my Computer Science background as an advantage, and have dived into AI image generation with <strong>MidJourney</strong>, to really level up my projects.</p>
-  <!-- add link to Imgur -->
 
 <h3 style="text-indent: 30px;"><u>Tools I use</u>:</h3>
   <div style="display: inline_block;"><br>
+    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
     <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
   </div>
 
 <!-- ---
@@ -89,6 +87,6 @@ I have some experience with Design, and I'm actively studying it! It's an area t
 
 <!-- add: "Working on", Language proficiency, MBTI -->
 <!-- add links: Porfolio and CV -->
-<!-- add tools: (learning) -> Excel, Power BI / (AI) -> MidJourney, Chat GPT -->
-<!-- add profiles: Alura, Skillshare, Dribbble, Khan Academy -->
-<!-- add extra: Clockify stats -->
+<!-- add tools: (learning) -> Excel, Power BI, MidJourney, ... -->
+<!-- add profiles: Alura, Skillshare, DRIBBBLE, Khan Academy -->
+<!-- add extra: * Clockify stats -->
