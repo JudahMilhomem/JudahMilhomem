@@ -12,7 +12,7 @@
 > ❤️🎵 I'm also a big fan of [Music](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
 
 ## Previous Internships and Work Experiences:
-- Former intern at [Agiitec](https://www.instagram.com/agiitec.uffs/) (UFFS);
+- Former intern at [**Agiitec**](https://www.instagram.com/agiitec.uffs/) (UFFS);
 - Former member of [**Fronteira Tec**](https://www.instagram.com/fronteira_tec/), a Jr. Company at my University.
 # Development-side
 - 👨‍💻 Looking for my **first job experience** in the area!! </br>
