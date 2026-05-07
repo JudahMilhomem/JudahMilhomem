@@ -12,8 +12,8 @@
 > ❤️🎵 I'm also a big fan of [Music](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
 
 ## Previous Internships and Work Experiences:
-- Former intern at [**Agiitec**](https://www.instagram.com/agiitec.uffs/) (UFFS);
-- Former member of [**Fronteira Tec**](https://www.instagram.com/fronteira_tec/), a Jr. Company at my University.
+- Former member of [**Fronteira Tec**](https://www.instagram.com/fronteira_tec/), a Jr. Company at my University (2022 - 2023);
+- Former intern at [**Agiitec**](https://www.instagram.com/agiitec.uffs/) [UFFS] - (2024 - 2025).
 # Development-side
 - 👨‍💻 Looking for my **first job experience** in the area!! </br>
 <p style="text-indent: 30px; text-align: justify;">
@@ -30,6 +30,12 @@ I have a good understanding of Computer Science concepts and practice and I have
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   </div>
 
+  <h4 style="text-indent: 30px;"><u>Learning</u>:</h4>
+  <div style="display: inline_block;"><br>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-plain.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-plain.svg">
+  </div>
+
 # Design-side
 <p style="text-indent: 30px; text-align: justify;">
 I have considerable experience with, and I am quite fond of Graphic Design and System Design. I'm always actively studying it! It's part of my work inclination, and I'm specially used to using Figma for making UI/UX projects and prototyping. I also know how to use Adobe Software.
@@ -38,7 +44,6 @@ I've been recently making an effort into incorporating more of this Design-relat
 
 <h3 style="text-indent: 30px;"><u>Tools I use</u>:</h3>
   <div style="display: inline_block;"><br>
-    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
     <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
